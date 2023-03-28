@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color:#0ccac4;;
+    
+    padding: 20px;
+   .logo{
+    
+    font-size: 2rem;
+   }
+    button{
+        
+        border: 1px solid green;
+        font-size: 1rem;
+        padding: 0.5rem;
+        
+    }
+   button:hover{
+    cursor: pointer;
+   }
+}
